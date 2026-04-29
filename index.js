@@ -18,7 +18,7 @@ const client = new Client({
 
 // --- Configuration ---
 const CONFIG = {
-    TOKEN: 'MTQ5ODc4MjM1MTI3MzA5OTMyNg.G6_8XE.D7c7jVpBzn4jz40Em6Mb0h9HIg-ozc9_qVhYOg',
+    TOKEN:'MTQ5ODc4MjM1MTI3MzA5OTMyNg.GtZc0Z.frMPZdJ7ADYAGXpGqC18C_WfA2xxniIXzjpVo8',
     FORUM_CHANNEL_ID: '1498771376511778898', // Forum channel er ID
     STAFF_ROLE_ID: '1498771511895658507',     // Server Staff role ID
 };
