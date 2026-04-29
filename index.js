@@ -26,6 +26,7 @@ const CONFIG = {
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}! Bot is ready.`);
 });
+client.login(CONFIG.TOKEN);
 
 // --- 1. Command to Send the Initial Report Buttons ---
 // Message e "!setup" likhle ei button gulo ashbe
